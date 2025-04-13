@@ -218,6 +218,7 @@ AccountImpl: 0x046A8BB2C22Be6c749EeA89dd38da33565f3Aea4
 Core: 0x994c9936a10f2DD4bb8569a4D6C2D06F3D3F749d
 
 tx links : 
+explorer url: https://persona-2744508829021000-1.sagaexplorer.io/
 ✅  [Success] Hash: 0x466dad4549d2d58e629fa67701669215e1dbf601adfcdd67867b9df5c2f1ef79
 Contract Address: 0x994c9936a10f2DD4bb8569a4D6C2D06F3D3F749d
 Block: 6271711
