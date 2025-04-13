@@ -120,30 +120,20 @@ Acts as a centralized access point across modules. All requests are routed throu
 
 ---
 
-## Team
-
-- Yeonha Park — Blockchain Developer & AI Pipeline Lead
-- Yeonha Park — Blockchain Developer & AI Pipeline Lead
-- Yeonha Park — Blockchain Developer & AI Pipeline Lead
-- Yeonha Park — Blockchain Developer & AI Pipeline Lead
-- [Additional team members to be added]
-
----
-
 ## Tech Stack
 
-- **Backend**: Python (FastAPI), PostgreSQL, Supabase
-- **AI Engine**: GPT-4o, persona-based scoring, clustering
+- **Frontend**: Next.js
+- **Backend**: Go, TypeScript, Express.js, MongoDB, SQLite (selectively used based on context)
+- **AI Engine**: Eliza OS Agents, GPT-4o
 - **On-chain Sources**: Alchemy, Bitquery, Etherscan APIs
-- **Infrastructure**: Vercel, Docker, Ubuntu
 
 ---
 
 ## Setup
 
 ```
-npm install
-npm run dev
+pnpm install
+pnpm run start
 ```
 
 ### .env Configuration
@@ -159,7 +149,41 @@ PORT=8021
 
 ## Roadmap
 
-- Launch AI transaction agents on SAGA
-- NFT issuance of wallet personas for gamification
-- Advanced behavior prediction models
-- API commercialization for B2B wallet platforms
+### 1. User Onboarding & Initial Data Collection
+
+- Wallet connection and automated on-chain data collection
+- Multi-chain support (Ethereum, NEAR, Story, etc.)
+- Consent flow for data collection and privacy protection
+
+### 2. Data Sufficiency Validation
+
+- Automatic logic to determine if sufficient data is available
+- Provide customized feedback and request more input if necessary
+
+### 3. Advanced Persona Analysis Engine
+
+- Develop a persona framework based on 4 core indicators:
+    - Explorer
+    - Diamond hands
+    - Whale
+    - Degen
+- Scoring interface with detailed explanation for each indicator
+
+### 4. Insight & Service Recommendation System
+
+- Visualize cluster analysis with similar wallet users
+- Persona-based protocol and service matching engine
+- Automated suggestions for improving Web3 activity
+
+### 5. AI Agent Automation & Execution Framework
+
+- Leverage Eliza OS Agents to turn persona insights into automated Web3 actions
+- Enable intelligent task automation such as optimal trade timing, gas fee optimization, and rebalancing based on user profiles
+- Each agent is deployed modularly on SAGA to execute wallet-specific strategies
+- Eliza agents continuously learn from on-chain behavior to refine and personalize the automation loop
+
+### 6. Expansion & Commercialization
+
+- NFT issuance for persona certification and community use
+- B2B API commercialization for enterprises
+- Full-stack SaaS integration for persona analysis, insights, and automation
