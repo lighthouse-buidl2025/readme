@@ -197,12 +197,20 @@ Core: 0xbcCC18aa7227723Accd4A95c290605cEE4cb946A
 tx links : https://sepolia.etherscan.io/address/0xbcCC18aa7227723Accd4A95c290605cEE4cb946A
 
 ### Deployed @ SAGATESTNET
-
-core.sol : 
-account.sol : 
-MockContract.sol : 
+Deployer: 0x77777777C54FD7A001F50fa752e524ec9B08A487
+AccountImpl: 0x7a0b710ed5D0D2F708Af491F6D3dcff5D872EDef
+Core: 0xdd5F1B42A9caa4883d685bD218CF3a9C08622FEb
 
 tx links : 
+✅  [Success] Hash: 0x254f884a4ecf6a33c0407dd76f4cfe1ab2e55bdf9fc8af9f757261c30bdd2113
+Contract Address: 0x7a0b710ed5D0D2F708Af491F6D3dcff5D872EDef
+Block: 77
+Paid: 0.000000073444057944 ETH (1048422 gas * 0.000070052 gwei)
+
+✅  [Success] Hash: 0x2b8652125a6780f967264edb0e0c84f56a2bc807e74d303da28f7a2a3ad9fc73
+Contract Address: 0xdd5F1B42A9caa4883d685bD218CF3a9C08622FEb
+Block: 77
+Paid: 0.000000061387198068 ETH (876309 gas * 0.000070052 gwei)
 
 ### Deployed @ ROOTSTOCKTESTNET
 Deployer: 0x77777777C54FD7A001F50fa752e524ec9B08A487
