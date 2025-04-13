@@ -207,8 +207,7 @@ PORT=8021
 - AI EngineerFocuses on Eliza OS integration and persona clustering algorithms
 - Led the development of GPT-4o powered recommendation modules and agent automation logic.
 
-
-
+**Thanks to Young seok @ American express Risk management**
 
 ---
 
