@@ -187,3 +187,26 @@ PORT=8021
 - NFT issuance for persona certification and community use
 - B2B API commercialization for enterprises
 - Full-stack SaaS integration for persona analysis, insights, and automation
+
+
+### Deployed @ SEPOLIA
+Deployer: 0xAF7fBBFE990427B0eC8Cc477f9466Aedfc3d2717
+AccountImpl: 0x4402d073ea722AB69879Be1fC1F1C22CBc96C261
+Core: 0xbcCC18aa7227723Accd4A95c290605cEE4cb946A
+
+tx links : https://sepolia.etherscan.io/address/0xbcCC18aa7227723Accd4A95c290605cEE4cb946A
+
+### Deployed @ SAGATESTNET
+
+core.sol : 
+account.sol : 
+MockContract.sol : 
+
+tx links : 
+
+### Deployed @ ROOTSTOCKTESTNET
+core.sol : 
+account.sol : 
+MockContract.sol : 
+
+tx links : 
