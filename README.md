@@ -188,6 +188,30 @@ PORT=8021
 - B2B API commercialization for enterprises
 - Full-stack SaaS integration for persona analysis, insights, and automation
 
+---
+## Team
+
+### Hanbit Kim
+- Product Designer
+- [what is persona? (Medium)](https://medium.com/decipher-media/%EC%A7%80%EA%B0%91-%ED%8E%98%EB%A5%B4%EC%86%8C%EB%82%98-3e8def4f3c66)
+
+### Yeonha Park 
+- Senior FrontEnd Dev.
+
+### RY
+- Fullstack EngineerDeveloped
+- Risk Management
+- Math Nerd
+
+### ASM
+- AI EngineerFocuses on Eliza OS integration and persona clustering algorithms
+- Led the development of GPT-4o powered recommendation modules and agent automation logic.
+
+
+
+
+---
+
 
 ### Deployed @ SEPOLIA
 
