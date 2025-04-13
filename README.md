@@ -203,6 +203,8 @@ Core: 0xdd5F1B42A9caa4883d685bD218CF3a9C08622FEb
 
 tx links : 
 explorer url: https://persona-2744508829021000-1.sagaexplorer.io/
+
+
 ✅  [Success] Hash: 0x254f884a4ecf6a33c0407dd76f4cfe1ab2e55bdf9fc8af9f757261c30bdd2113
 Contract Address: 0x7a0b710ed5D0D2F708Af491F6D3dcff5D872EDef
 Block: 77
@@ -218,7 +220,9 @@ Deployer: 0x77777777C54FD7A001F50fa752e524ec9B08A487
 AccountImpl: 0x046A8BB2C22Be6c749EeA89dd38da33565f3Aea4
 Core: 0x994c9936a10f2DD4bb8569a4D6C2D06F3D3F749d
 
-tx links : 
+tx links : https://explorer.testnet.rootstock.io/address/0x994c9936a10f2dd4bb8569a4d6c2d06f3d3f749d
+
+
 ✅  [Success] Hash: 0x466dad4549d2d58e629fa67701669215e1dbf601adfcdd67867b9df5c2f1ef79
 Contract Address: 0x994c9936a10f2DD4bb8569a4D6C2D06F3D3F749d
 Block: 6271711
